@@ -1,0 +1,25 @@
+---
+  name: navigation
+
+  logo:
+    font_icon: fa fa-magic
+    text: "Pune Scala"
+    link:
+      url: home
+
+  menu:
+
+    
+    left:
+      -
+        label: Latest posts
+        link:
+          url: posts
+    
+
+    right:
+      -
+        label: About
+        link:
+          url: about
+        font_icon: fa fa-user

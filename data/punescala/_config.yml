@@ -1,0 +1,12 @@
+---
+name: punescala
+display_name: Pune Scala
+description: Scala community in and around Pune
+site_name: http://punescala.herokuapp.com
+blog: true
+blog_layout: right-sidebar
+title: Principles of programming in Scala
+sanitize_title: principles-of-programming-in-scala
+tags:
+- scala
+- " course"
