@@ -2,8 +2,8 @@
   name: navigation
 
   logo:
-    font_icon: fa fa-magic
-    text: "Pune Scala"
+    font_icon: fa fa-fw fa-university
+    text: Pune Scala
     link:
       url: home
 
@@ -12,14 +12,20 @@
     
     left:
       -
-        label: Latest posts
+        label: "&nbsp;Latest posts"
         link:
           url: posts
-    
+        font_icon: fa fa-fw fa-comments-o
+      -
+        label: "&nbsp;Courses"
+        link:
+          url: courses
+        font_icon: fa fa-fw fa-graduation-cap
+
 
     right:
       -
-        label: About
+        label: "&nbsp;About"
         link:
           url: about
-        font_icon: fa fa-user
+        font_icon: fa fa-fw fa-user

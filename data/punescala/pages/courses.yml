@@ -1,0 +1,21 @@
+---
+  slug: courses
+  title: Courses from Pune Scala
+  seo:
+    description: Courses from Pune Scala
+  layout:
+    type: slim
+    name: bootstrap/full-width
+  areas:
+    -
+      name: body
+      modules:
+        -
+          recipes:
+            -
+              type: soupcms-api
+              model: courses
+              return: articles
+          template:
+            type: slim
+            name: bootstrap/article-tile-view
