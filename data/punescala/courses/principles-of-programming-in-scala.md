@@ -4,7 +4,7 @@ publish_datetime: 2014-05-15T00:00:07.0Z
 description: We are happy to launch a new community site dedicated for Scala events in Pune. If you would like to contribute by hosting a community event, blog post etc., let us know.
 ---
 
-### **Introduction to Functional Programming**
+### Introduction to Functional Programming
 
 * Strategy Pattern
 * Generic Strategy
@@ -16,7 +16,7 @@ description: We are happy to launch a new community site dedicated for Scala eve
 * Tail recursion
 * Val, var, lazy val, pass-by-value and pass-by-name
 
-### **Object Oriented Programming in Scala**
+### Object Oriented Programming in Scala
 
 * Classes, Objects, and Traits
 * Case classes as Functional Objects
@@ -30,7 +30,7 @@ description: We are happy to launch a new community site dedicated for Scala eve
 * Operators as methods
 * Tuples
 
-### **Pattern matching**
+### Pattern matching
 
 * Option / Some / None
 * Extractors
@@ -43,7 +43,7 @@ description: We are happy to launch a new community site dedicated for Scala eve
 * PartialFunction
 
 
-### **Collections and combinators**
+### Collections and combinators
 
 * No syntax
 * Immutable vs mutable collections
@@ -58,7 +58,7 @@ description: We are happy to launch a new community site dedicated for Scala eve
 * For comprehensions
 * Options with for
 
-### **Implicits**
+### Implicits
 
 * Implicit classes: extension methods
   * Using tappers for debugging
@@ -66,7 +66,7 @@ description: We are happy to launch a new community site dedicated for Scala eve
 * Implicit parameters: type classes
   * Reverse Ordering
 
-### **Misc Topics**
+### Misc Topics
 
 * Streams
 * Regular expression
@@ -76,7 +76,7 @@ description: We are happy to launch a new community site dedicated for Scala eve
 * Java-Scala interoperability: collections
 * Auxiliary constructors
 
-### **Discussion pain-points**
+### Discussion pain-points
 
 * Compile times
 * Binary compatibility
