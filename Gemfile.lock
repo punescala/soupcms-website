@@ -22,6 +22,16 @@ GIT
     soupcms-common (0.5.0)
 
 GIT
+  remote: git://github.com/soupcms/soupcms-core.git
+  revision: 551f69d4e96a1bd1dca22b9a19f4ddd1565208a2
+  specs:
+    soupcms-core (0.5.0)
+      bootstrap-sass
+      sass
+      slim
+      sprockets-helpers
+
+GIT
   remote: git://github.com/sstephenson/sprockets.git
   revision: 2a658ff971b44ee995bf3205a991005f8dbdca1d
   ref: 2a658ff971b44ee995bf3205a991005f8dbdca1d
@@ -29,15 +39,6 @@ GIT
     sprockets (2.12.0)
       hike (~> 1.2)
       rack (~> 1.0)
-
-PATH
-  remote: ../soupcms/soupcms-core
-  specs:
-    soupcms-core (0.5.0)
-      bootstrap-sass
-      sass
-      slim
-      sprockets-helpers
 
 GEM
   remote: https://rubygems.org/
