@@ -47,6 +47,7 @@ map '/' do
   soup_cms_rack_app = SoupCMSRackApp.new
 
   soup_cms_rack_app.set_redirect('http://punescala.herokuapp.com','http://punescala.herokuapp.com/home')
+  soup_cms_rack_app.set_redirect('http://punescala.herokuapp.com/','http://punescala.herokuapp.com/home')
 
   run soup_cms_rack_app
 end
